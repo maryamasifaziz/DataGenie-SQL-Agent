@@ -16,7 +16,10 @@
 ---
 
 ## 📸 Screenshots
-> Add screenshots of your app here
+![Dashboard Screenshot 1](images/dashboard1.png)
+![Dashboard Screenshot 2](images/dashboard2.png)
+![Dashboard Screenshot 3](images/dashboard3.png)
+![Dashboard Screenshot 4](images/sidebar.png)
 
 ---
 
